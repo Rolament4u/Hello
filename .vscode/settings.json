@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "**/.git": false,
+        "**/.git clone https://github.com/Rolament4u/Hello.git": true
+    }
+}
